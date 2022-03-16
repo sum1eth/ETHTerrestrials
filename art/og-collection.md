@@ -14,7 +14,7 @@ Each owner of an OG EthTerrestrial can upgrade their OG token to a new 100% on-c
 
 ## How to Beam Up
 
-In order to migrate your OG EthTerrestrials, use the 'Beam Up' button on \[website]. After transactions are completed, your OG EthTerrestrials will be transferred from the original contract (Open Sea Shared contract) to the new EthTerrestrial contract where they will be completely on-chain and live happily with all other EthTerrestrials.
+In order to migrate your OG EthTerrestrials, use the 'Beam Up' button on ethterrestrials.io. After transactions are completed, your OG EthTerrestrials will be transferred from the original contract (Open Sea Shared contract) to the new EthTerrestrial contract where they will be completely on-chain and live happily with all other EthTerrestrials.
 
 
 
