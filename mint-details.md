@@ -4,7 +4,7 @@ description: '[date + time]'
 
 # Mint Details
 
-Tripped EthTerrestrials will mint on \[x] on our website \[URL]. Each EthTerrestrial will be randomly created on-chain and should "reveal" shortly after your mint. &#x20;
+Tripped EthTerrestrials will mint on our website [https://www.ethterrestrials.io/](https://www.ethterrestrials.io). Each EthTerrestrial will be randomly created on-chain and should "reveal" shortly after your mint. &#x20;
 
 **Maximum Mintable Tokens:** 4169
 
